@@ -9,8 +9,8 @@ import { Typewriter } from "react-simple-typewriter";
 function Hero() {
   return (
 
-    <div id="Home" className='flex mx-auto pt-8 pb-10 '>
-      <div className='max-w-7xl mx-auto px-6  py-15'>
+    <div id="Home" className='flex mx-auto pt-8 pb-14 '>
+      <div className='max-w-7xl mx-auto px-6 py-15'>
         <div className='grid grid-cols-1 lg:grid-cols-2 items-center gap-12 md:pl-12 lg:pl-12  lg:gap-24 '>
           <div className='text-center lg:text-left  '>
             <h1 className='text-5xl  sm:text-6xl md:text-7xl font-bold mb-10 leading-8 '>

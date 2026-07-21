@@ -115,7 +115,7 @@ body {
 .Project-skillCard {
     animation: projectRevealSkill linear both;
     animation-timeline: view();
-    animation-range: entry 0% 35%;
+    animation-range: entry 0% 25%;
 
 }
 
@@ -175,7 +175,7 @@ body {
 
     from {
         opacity: 0;
-        transform: translateX(20px) scale(.9);
+        transform: translateX(25px) scale(.9);
         filter: blur(10px);
     }
 

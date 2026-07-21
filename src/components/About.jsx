@@ -7,10 +7,10 @@ import resume from "../assets/Sagar-resumepdf.pdf"
 
 function About() {
     return (
-        <div id='About' className='py-20 '>
-            <div className='max-w-7xl mx-auto px-6'>
+        <div id='About' className='pt-25'>
+            <div className='max-w-7xl mx-auto px-6 lg:py-8 '>
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-12 items-center'>
-                    <div className='order-1'>
+                    <div className='order-1  '>
                         <h2 className='text-4xl md:text-5xl font-bold mb-4 aboutTextAnimate'>
                             <span className='text-teal-800'>About</span>
                             <span className=''>Me</span>

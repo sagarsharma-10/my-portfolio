@@ -34,10 +34,10 @@ function Contact() {
   };
 
   return (
-    <div id="Contact" className='py-20 '>
+    <div id="Contact" className='pb-30 lg:pt-20  '>
 
       <div className='max-w-7xl mx-auto px-6 '>
-        <div className='text-center mb-16 '>
+        <div className='text-center mb-16  '>
           <h1 className='text-4xl lg:text-5xl font-bold mb-6'>Get In <span className='text-teal-800'>Touch</span></h1>
           <p className='mb-2 text-md text-[17px] mb:6 max-w-3xl mx-auto'>Have a project in mind or want to work together? Feel free to send me a message. I'll get back to you as soon as possible.</p>
 
@@ -84,7 +84,7 @@ function Contact() {
             <div className="flex justify-center">
               <button
                 type="submit"
-                className="flex items-center gap-2 px-8 py-4 bg-zinc-800 text-white rounded-full hover:bg-zinc-400"
+                className="flex items-center gap-2 px-8 py-4 bg-zinc-800 text-white rounded-full hover:bg-zinc-400 hover:cursor-pointer transition duration-300 hover:text-black"
               >
                 Send Message
                 <FaArrowRight className="text-sm" />

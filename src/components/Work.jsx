@@ -8,9 +8,9 @@ function Work() {
 
 
     return (
-        <div className='py-15 scroll-mt-10 '>
+        <div className='pt-15 scroll-mt-10 '>
 
-            <div id="Work" className=' max-w-7xl mx-auto px-6  py-13 '>
+            <div id="Work" className=' max-w-7xl mx-auto px-6  '>
                 <div className='block1  '>
 
                     <div className='flex justify-center flex-col items-center gap-5  '>
