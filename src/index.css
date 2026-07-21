@@ -123,7 +123,7 @@ body {
 @keyframes projectRevealSkill {
     from {
         opacity: 0;
-        transform: perspective(500px) rotateY(35deg) rotateX(25deg) translateY(150px) scale(0.55);
+        transform: perspective(500px) rotateY(35deg) rotateX(20deg) translateY(150px) scale(0.55);
         filter: blur(10px);
     }
 
@@ -169,14 +169,14 @@ body {
 .aboutTextAnimate {
     animation: aboutText linear both;
     animation-timeline: view();
-    animation-range: entry 0% cover 40%;
+    animation-range: entry 0% cover 60%;
 }
 
 @keyframes aboutText {
 
     from {
         opacity: 0;
-        transform: translateX(120px) scale(.9);
+        transform: translateX(20px) scale(.9);
         filter: blur(10px);
     }
 

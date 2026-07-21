@@ -54,6 +54,7 @@ export const projectData = [
         description: 'A responsive food ordering web application with menu browsing, category filtering, shopping cart, and a modern user interface.',
         image: project1,
         tech: ['React', 'JavaScript ', 'Tailwindcss'],
+        link: "https://masterchefrestaurants.netlify.app/"
 
     },
     {
@@ -61,6 +62,7 @@ export const projectData = [
         description: 'A modern restaurant menu website featuring food categories, responsive layouts, and an elegant user interface.',
         image: project2,
         tech: ["HTML", "CSS", "JavaScript"],
+        link: "https://sagarsharma-10.github.io/food-website/"
 
     },
     {
@@ -68,13 +70,15 @@ export const projectData = [
         description: 'A movie browsing application with search, movie details, trending movies, and a responsive user interface powered by an API.',
         image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHByb2plY3R8ZW58MHx8MHx8fDA%3D',
         tech: ['React', 'JavaScript ', 'Tailwindcss'],
+        link: "#"
 
     },
     {
-        title: '',
-        description: 'A mood-based interior design suggestion tool that uses AI',
+        title: 'Clothes website',
+        description: 'A responsive online clothing store with product browsing, shopping cart functionality, and a clean user interface.',
         image: 'https://images.unsplash.com/photo-1553877522-43269d4ea984?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2plY3R8ZW58MHx8MHx8fDA%3D',
         tech: ['React', 'JavaScript ', 'Tailwindcss'],
+        link: "#"
 
     }
 ]
