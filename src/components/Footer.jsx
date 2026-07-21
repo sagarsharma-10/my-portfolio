@@ -6,7 +6,7 @@ import { PiLinkedinLogo } from "react-icons/pi";
 
 function Footer() {
     return (
-        <div className='py-12  border-zinc-200'>
+        <div className='py-12 border-t-2 border-zinc-200'>
             <div className='max-w-7xl mx-auto px-6'>
                 <div className='flex flex-col md:flex-row items-center justify-between '>
                     <div className='mb-6 md:mb-0 border-2 p-2 rounded'>
