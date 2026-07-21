@@ -9,7 +9,7 @@ import { Typewriter } from "react-simple-typewriter";
 function Hero() {
   return (
 
-    <div id="Home" className='min-h-screen flex mx-auto pt-8 pb-10'>
+    <div id="Home" className='min-w-screen flex mx-auto pt-8 pb-10 '>
       <div className='max-w-7xl mx-auto px-6  py-15'>
         <div className='grid grid-cols-1 lg:grid-cols-2 items-center md:pl-10 gap-60 '>
           <div className='text-center lg:text-left  '>

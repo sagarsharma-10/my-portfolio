@@ -8,7 +8,7 @@ function Navbar() {
             <div className='max-w-7xl mx-auto px-6'>
                 <div className='flex justify-between items-center  '>
                     {/* Logo  */}
-                    <div className='text-2xl font-bold text-zinc-800 font-orbitron'>
+                    <div className='text-2xl max-w-100 md:max-w-full lg:max-w-full sm:max-w-full  font-bold text-zinc-800 font-orbitron '>
                         <span>SAGAR-</span>
                         <span className='text-teal-800 font-orbitron'>SHARMA</span>
                     </div>

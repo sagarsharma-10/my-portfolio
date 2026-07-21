@@ -8,7 +8,7 @@ function Work() {
 
 
     return (
-        <div id="Work" className=' max-w-7xl pt-17 mx-auto scroll-mt-10 '>
+        <div id="Work" className=' max-w-7xl pt-17 mx-auto scroll-mt-10  '>
             <div className='block1 '>
 
                 <div className='flex justify-center flex-col items-center gap-5  '>
