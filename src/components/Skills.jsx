@@ -4,7 +4,7 @@ import { FaCode, FaDesktop, FaMicrochip, FaMobile, FaReact, FaRProject, FaSchool
 
 function Skills() {
     return (
-        <div id='Skills' className='py-15 scroll-mt-10 '>
+        <div id='Skills' className='py-15 scroll-mt-10  '>
             <div className='max-w-5xl mx-auto px-6'>
                 <div className='text-center mb-16  skills-animate'>
                     <h2 className='text-4xl sm:text-5xl font-bold mb-6'>

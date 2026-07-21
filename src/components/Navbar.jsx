@@ -4,7 +4,7 @@ import { FaArrowRight } from 'react-icons/fa';
 import resumes from '../assets/Sagar-resumepdf.pdf';
 function Navbar() {
     return (
-        <div className='fixed w-full py-3 z-50  backdrop-blur-3xl'>
+        <div className='fixed top-0 left-0 right-0 w-full py-3 z-50  backdrop-blur-3xl'>
             <div className='max-w-7xl mx-auto px-6'>
                 <div className='flex justify-between items-center  '>
                     {/* Logo  */}
@@ -15,7 +15,7 @@ function Navbar() {
 
                     {/* Menu */}
 
-                    <div className='hidden md:flex gap-8 border border-gray-200 rounded-full px-10 py-4 space-x-6 '>
+                    <div className='hidden md:flex gap-8 border border-gray-200 rounded-full px-10 py-4'>
                         {
                             navMenu.map((items, index) => {
                                 return <a key={index} href={`#${items}`}>{items}</a>
